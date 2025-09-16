@@ -73,12 +73,50 @@ Creating workflow optimization tools for enterprise environments
 - ✅ **Security Focus**: Developed cybersecurity tools and implemented security best practices
 - ✅ **Full-Stack Expertise**: Built end-to-end applications with modern tech stacks
 
-## 💡 Fun Challenge
+## 💡 Interactive Code Challenge
 
-**Quick Python Challenge**: Write a one-liner to reverse a string!
+<details>
+<summary><b>🧩 Quick Python Challenge: Reverse a String in One Line!</b></summary>
+
+**Challenge**: Write a Python one-liner to reverse any string.
+
 ```python
-# Your solution here - share it with me!
+# Example input: "Hello World"
+# Expected output: "dlroW olleH"
+
+# Click below to see solutions! 👇
 ```
+
+<details>
+<summary>💡 Solution 1: Slicing (Most Pythonic)</summary>
+
+```python
+reversed_string = original_string[::-1]
+```
+
+</details>
+
+<details>
+<summary>💡 Solution 2: Using reversed() function</summary>
+
+```python
+reversed_string = ''.join(reversed(original_string))
+```
+
+</details>
+
+<details>
+<summary>💡 Solution 3: Functional approach</summary>
+
+```python
+reversed_string = ''.join(original_string[i] for i in range(len(original_string)-1, -1, -1))
+```
+
+</details>
+
+**Got a different solution? I'd love to see it! Open an issue or PR to share your approach! 🚀**
+
+</details>
 
 ## 🌱 Beyond Code
 
