@@ -1,104 +1,112 @@
-👋 Hey, I'm Tahar!
- 💻 Code wizard & tech enthusiast by night
+# Hi there, I'm Tahar! 👋
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving hand">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Tech+Enthusiast;Problem+Solver;Code+Wizard" alt="Typing SVG" />
+</div>
 
+## 🚀 About Me
 
-👨‍💻 About Me
+**Senior Software Engineer** passionate about building scalable solutions and exploring cutting-edge technologies.
 
-🌍 Living the dream in Sweden 🇸🇪
-🔧 From network admin to industrial tech to slinging back-end code
-💡 Obsessed with AI, cybersecurity, augmented reality, and e-commerce
-🎯 Motto: Code it, break it, fix it, repeat!
+- 🌍 **Location**: Sweden 🇸🇪
+- 💼 **Background**: Network Administration → Industrial Technology → Backend Development
+- 🔍 **Specializing in**: AI Integration, Cybersecurity, E-commerce, Full-Stack Development
+- 🎯 **Philosophy**: *"Code today, conquer tomorrow"*
 
+## 💻 Technical Stack
 
-🛠️ Skills
-Languages & Frameworks
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&#x26;logo=java&#x26;logoColor=white" alt="Java">  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white" alt="Python">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&#x26;logo=javascript&#x26;logoColor=black" alt="JavaScript">  
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&#x26;logo=typescript&#x26;logoColor=white" alt="TypeScript">  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&#x26;logo=react&#x26;logoColor=61DAFB" alt="React">  
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&#x26;logo=node-dot-js&#x26;logoColor=white" alt="Node.js">  
+### **Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Databases & Tools
+### **AI & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&#x26;logo=postgresql&#x26;logoColor=white" alt="PostgreSQL">  
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&#x26;logo=database&#x26;logoColor=white" alt="SQL">  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&#x26;logo=linux&#x26;logoColor=black" alt="Linux">  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&#x26;logo=git&#x26;logoColor=white" alt="Git">  
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&#x26;logo=visual-studio-code&#x26;logoColor=white" alt="VS Code">  
+## 🎯 Current Projects
 
-AI & Machine Learning
+### 🛒 **E-commerce Solutions**
+Building modern, scalable e-commerce platforms with AI-powered recommendations
 
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&#x26;logo=python&#x26;logoColor=yellow" alt="Machine Learning">  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&#x26;logo=tensorflow&#x26;logoColor=white" alt="TensorFlow">  
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style-for-the-badge&#x26;logo=scikit-learn&#x26;logoColor=white" alt="Scikit-Learn">  
-  <img src="https://img.shields.io/badge/Pandas-150458?style-for-the-badge&#x26;logo=pandas&#x26;logoColor=white" alt="Pandas">  
-  <img src="https://img.shields.io/badge/NumPy-013243?style-for-the-badge&#x26;logo=numpy&#x26;logoColor=white" alt="NumPy">  
+### 🔐 **Cybersecurity Tools**
+Developing security applications to protect against emerging threats
 
+### 🤖 **AI Integrations**
+Experimenting with machine learning models and intelligent automation
 
-🚀 What I’m Building
+### 💼 **Business Applications**
+Creating workflow optimization tools for enterprise environments
 
-⚡ Full-stack apps that make life easier
-🤖 Experimenting with AI integrations (who doesn’t love a smart bot?)
-🛠️ Side hustles:
+## 📊 GitHub Analytics
 
-📱 E-commerce platforms for the modern shopper
-🔒 Cybersecurity tools to keep the bad guys out
-🌐 Business apps to streamline workflows
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahgue&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahgue&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahgue&theme=react-dark&hide_border=true&area=true" width="90%" alt="Contribution Graph" />
+</div>
 
+### **Most Used Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahgue&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
+## 🏆 Key Achievements
 
-📊 GitHub Stats That Pop
+- ✅ **Career Transition**: Successfully pivoted from network administration to full-stack development
+- ✅ **AI Implementation**: Integrated machine learning solutions in production applications  
+- ✅ **Security Focus**: Developed cybersecurity tools and implemented security best practices
+- ✅ **Full-Stack Expertise**: Built end-to-end applications with modern tech stacks
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tahgue&#x26;show_icons=true&#x26;theme=radical&#x26;count_private=true" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahgue&#x26;theme=radical" height="165" alt="GitHub Streak">
+## 💡 Fun Challenge
 
+**Quick Python Challenge**: Write a one-liner to reverse a string!
+```python
+# Your solution here - share it with me!
+```
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahgue&#x26;theme=react-dark&#x26;hide_border=true" width="80%" alt="Contribution Graph">
+## 🌱 Beyond Code
 
+When I'm not building the next big thing:
+- 🏞️ **Adventure**: Exploring Sweden's stunning hiking trails
+- 🌍 **Culture**: Discovering new cultures and wildlife
+- ☕ **Philosophy**: Deep conversations over coffee about tech, life, and everything in between
 
+## 📫 Let's Connect
 
-
-😂 Dev Joke of the Day:
-
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke">
-
-
-📜 Inspirational Quote:
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&#x26;theme=radical" alt="Random Quote">
-
-
-🎮 Interactive Code Challenge:
-Want to test your coding skills? Try this mini-challenge:
-Write a one-liner in Python to reverse a string. Share your solution with me on GitHub!
-
-
-🌱 When I’m Not Coding
-
-🚶 Exploring Sweden’s epic hiking trails 🏞️
-🐾 Chasing wildlife adventures & diving into new cultures
-☕ Sipping coffee while debating tech, survival, or the meaning of life
-
-
-📫 Let’s Connect!
-
+<div align="center">
   
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
-  
-  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-  
-  
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Email">
-  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahgue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
 
+</div>
 
-✨ Final Words
-“Code today, conquer tomorrow.”
+---
 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coding GIF">
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</div>
+
+<div align="center">
+  
+  **"Building tomorrow's solutions with today's code"**
+  
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Coding" />
+  
+</div>
