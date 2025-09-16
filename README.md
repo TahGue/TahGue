@@ -58,7 +58,7 @@ AI & Machine Learning
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahgue&#x26;theme=radical" height="165" alt="GitHub Streak">
 
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&#x26;theme=react-dark&#x26;hide_border=true" width="80%" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahgue&#x26;theme=react-dark&#x26;hide_border=true" width="80%" alt="Contribution Graph">
 
 
 
