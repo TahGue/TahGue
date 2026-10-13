@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=220&section=header&text=Tahar&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Sweden%20%F0%9F%87%B8%F0%9F%87%AA&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=220&section=header&text=Tahar&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Sweden%20%F0%9F%87%B8%F0%9F%87%AA&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=520&lines=%3E+booting+tahar.exe+...;Full-Stack+Developer+%E2%9A%A1;AI+%2B+Cybersecurity+Tinkerer+%F0%9F%A7%A0%F0%9F%94%90;Network+Admin+%E2%86%92+Backend+Engineer;Code+today%2C+conquer+tomorrow." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=520&lines=%3E+booting+tahar.exe+...;Full-Stack+Developer+%E2%9A%A1;AI+%2B+Cybersecurity+Tinkerer+%F0%9F%A7%A0%F0%9F%94%90;Network+Admin+%E2%86%92+Developer;Code+today%2C+conquer+tomorrow." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,15 +23,15 @@ tahar@stockholm:~$ whoami
 
 ```yaml
 name:        Tahar
-role:        Senior Software Engineer
+role:        Developer
 location:    Sweden 🇸🇪  (UTC+1/+2, powered by fika ☕)
 origin_story: Network Admin ─▶ Industrial Tech ─▶ Backend ─▶ Full-Stack
 focus:
-  - AI integration that actually ships to production
-  - Cybersecurity tools & secure-by-default design
-  - Scalable e-commerce platforms
-  - Workflow automation for the enterprise
-currently:   teaching machines to recommend things you didn't know you wanted
+  - Full-stack web apps (Next.js, React, Node, Prisma)
+  - AI / ML and data analysis with Python
+  - Local-first apps that respect your privacy
+  - Games & hobby projects (Phaser, Godot)
+currently:   studying AI & machine learning while building side projects
 motto:       "Code today, conquer tomorrow."
 ```
 
@@ -43,12 +43,12 @@ motto:       "Code today, conquer tomorrow."
 flowchart LR
     A["🖧 Network<br/>Administration"] --> B["🏭 Industrial<br/>Technology"]
     B --> C["⚙️ Backend<br/>Development"]
-    C --> D["🧩 Full-Stack<br/>Engineering"]
+    C --> D["🧩 Full-Stack<br/>Development"]
     D --> E["🤖 AI + 🔐 Security<br/><i>you are here</i>"]
     style E fill:#36BCF7,stroke:#0f2027,color:#0f2027,stroke-width:2px
 ```
 
-> Every hop on that map left something behind: networking taught me how systems fail, industry taught me how they're *used*, and backend taught me how to make them not fail.
+> Every hop on that map left something behind: networking taught me how systems fail, industry taught me how they're *used*, and backend taught me how to build them.
 
 <!-- ═══════════════════════════ TECH ARSENAL ═══════════════════════════ -->
 
@@ -58,52 +58,86 @@ flowchart LR
 
 | Slot | Equipped |
 |:---:|:---|
-| ⚔️ **Languages** | <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" /> |
-| 🛡️ **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring&theme=dark" /> |
-| 🗄️ **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /> |
-| 🧠 **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" /> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| 🔧 **Toolbelt** | <img src="https://skillicons.dev/icons?i=git,linux,vscode,docker&theme=dark" /> |
+| ⚔️ **Languages** | <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart&theme=dark" /> |
+| 🛡️ **Frameworks** | <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,spring,flutter&theme=dark" /> |
+| 🗄️ **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma&theme=dark" /> |
+| 🧠 **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" /> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| 🔧 **Toolbelt** | <img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,godot&theme=dark" /> |
 
 </div>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
-## 🚧 Active Missions
+## 🚧 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-commerce Engine
-Modern, scalable storefronts with **AI-powered recommendations**.
-`status: ████████░░ 80%`
+### 🧪 [VSRS](https://github.com/TahGue/VSRS-)
+Verified Software Reasoning System — treats generated code as a hypothesis and verifies it with evidence.
+`Python`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Security Toolkit
-Apps that spot and stop **emerging threats** before they spot you.
-`status: ██████░░░░ 60%`
+### 🏭 [PLC Factory Emulator](https://github.com/TahGue/PLC_Emulator)
+Open-source factory/PLC emulator with a FastAPI backend, PyTorch and PostgreSQL.
+`Python · JavaScript · Docker`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Integrations
-ML models + **intelligent automation**, wired into real products.
-`status: ███████░░░ 70%`
+### 💰 [Financial Advisor](https://github.com/TahGue/FiscalYearReport)
+Local-first budgeting app: bank CSV analysis, Swedish tax planning and AI explanations.
+`Next.js · TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Business Apps
-**Workflow optimization** tools for enterprise teams.
-`status: █████░░░░░ 50%`
+### 🧠 [AssessMind](https://github.com/TahGue/NeuroClear)
+Web app for psychologists to manage patients, evaluations, scores and reports.
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 [Audiobook Maker](https://github.com/TahGue/audiobook)
+Local desktop app that turns PDF/EPUB/DOCX into audio with neural TTS, including Arabic.
+`Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🥾 [Utility Hiking App](https://github.com/TahGue/hikingmobileapp)
+Offline-first app for hikers: maps, observations, safety warnings, species ID.
+`Flutter · Dart`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ [Malik RPG — The Drying Well](https://github.com/TahGue/rpg2dscroll)
+Top-down pixel-art RPG with quests, crafting and combat.
+`React · Phaser 3 · Express · Prisma`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ [Kiosk System](https://github.com/TahGue/kiosk-server)
+Node.js server + Linux clients for managing full-screen kiosk browsers.
+`Node.js · Express`
 
 </td>
 </tr>
 </table>
+
+📚 Coursework: [ML assignments](https://github.com/TahGue/Assignment-2-for-Machine-Learning), [Olympic data analysis](https://github.com/TahGue/projekt_os_kanada), [statistics lab](https://github.com/TahGue/Laboration_Statistiska_Metoder), [SQL Server bookstore DB](https://github.com/TahGue/Lab2Databaser)
 
 <!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
 
@@ -111,9 +145,9 @@ ML models + **intelligent automation**, wired into real products.
 
 ```diff
 + [UNLOCKED] Class Change ........ Network Admin → Full-Stack Developer
-+ [UNLOCKED] Machine Whisperer ... ML shipped to production apps
-+ [UNLOCKED] Shield Bearer ....... Built cybersecurity tools & hardened systems
-+ [UNLOCKED] End-to-End .......... Delivered complete apps on modern stacks
++ [UNLOCKED] Machine Learner ..... ML & data analysis projects in Python
++ [UNLOCKED] Builder ............. Full-stack apps from database to UI
++ [UNLOCKED] Game Dev ............ RPG in Phaser, survivors-like in Godot
 - [LOCKED]   ??? ................. collaborate with me to find out
 ```
 
